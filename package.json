@@ -40,7 +40,10 @@
     "type": "git",
     "url": "git+https://github.com/deckgo/deckdeckgo.git"
   },
-  "author": "Noël Macé",
+  "author": {
+    "name": "Noël Macé",
+    "url": "https://noelmace.com/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/deckgo/deckdeckgo"
